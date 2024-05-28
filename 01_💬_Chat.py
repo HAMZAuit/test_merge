@@ -4,7 +4,7 @@ from openai import OpenAI
 from utilities.icon import page_icon
 
 st.set_page_config(
-    page_title="Chat playground",
+    page_title="Chat with me 🤖",
     page_icon="💬",
     layout="wide",
     initial_sidebar_state="expanded",
